@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kunryzkcode.github.io/Cosmos3D/sitemap.xml
